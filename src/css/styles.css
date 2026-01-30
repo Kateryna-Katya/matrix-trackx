@@ -1089,7 +1089,7 @@ a {
 }
 
 .pages h1 {
-    font-size: clamp(32px, 5vw, 48px);
+    font-size: clamp(24px, 5vw, 48px);
     margin-bottom: 40px;
 }
 
